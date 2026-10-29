@@ -1,0 +1,5 @@
+# tanda_dolores
+
+
+# Capturas del proyecto con sus pruebas
+![alt text](screenshots/screenshot-2026-10-29_11-25-28.png) ![alt text](screenshots/screenshot-2026-10-29_11-25-15.png) ![alt text](screenshots/screenshot-2026-10-29_11-25-01.png) ![alt text](screenshots/screenshot-2026-10-29_11-24-22.png) ![alt text](screenshots/screenshot-2026-10-29_11-24-09.png) ![alt text](screenshots/screenshot-2026-10-29_11-23-55.png) ![alt text](screenshots/screenshot-2026-10-29_11-21-56.png) ![alt text](screenshots/screenshot-2026-10-29_11-15-16.png) ![alt text](screenshots/screenshot-2026-10-29_11-15-01.png) ![alt text](screenshots/screenshot-2026-10-29_11-14-48.png) ![alt text](screenshots/screenshot-2026-10-29_11-14-35.png) ![alt text](screenshots/screenshot-2026-10-29_11-14-19.png) ![alt text](screenshots/screenshot-2026-10-29_11-14-04.png) ![alt text](screenshots/screenshot-2026-10-29_11-13-50.png) ![alt text](screenshots/screenshot-2026-10-29_11-13-34.png) ![alt text](screenshots/screenshot-2026-10-29_11-13-17.png) ![alt text](screenshots/screenshot-2026-10-29_11-12-58.png)
